@@ -9,25 +9,25 @@
 - 🥅 2022 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to capture moments with my camera!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Soubhik1502.Soubhik1502)
 
 ## Connect with me:
 
-<a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<!-- <a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a> -->
 
-<a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/Soubhik_1502" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-<a href="https://leetcode.com/ketanaggarwal58/" target="_blank"><img alt="Leet Code" src="https://img.shields.io/badge/leetcode-%23191919.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<!-- <a href="https://leetcode.com/ketanaggarwal58/" target="_blank"><img alt="Leet Code" src="https://img.shields.io/badge/leetcode-%23191919.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a> -->
 
-<a href="https://www.linkedin.com/in/ketanaggarwal58/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/soubhik-ch/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.instagram.com/ketanaggarwal58/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/wikiboy_1502/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ketanAggarwal58&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Soubhik1502&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 <br />
@@ -84,25 +84,25 @@ I also regularly participates in Hackathons either as a participant or as a ment
 ---
 
 <p align="center">
-    <a href="https://github.com/ketanAggarwal58/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ketanAggarwal58&theme=dracula" />
+    <a href="https://github.com/Soubhik1502/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Soubhik1502&theme=dracula" />
   </a>
 </p>
 
 ---
 
 <p align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ketanAggarwal58&theme=dracula" alt="my github stats" height="190px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soubhik1502&theme=dracula" alt="my github stats" height="190px" />
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KetanAggarwal58&langs_count=12&layout=compact&theme=light&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhik1502&langs_count=12&layout=compact&theme=light&include_all_commits=true" height="190px">
 </p>
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanAggarwal58&" alt="ketanAggarwal58" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhik1502&" alt="ketanAggarwal58" /></p>
 
 ---
 
-[twitter]: https://twitter.com/KetanAggarwal17
-[instagram]: https://www.instagram.com/ketanaggarwal58
-[linkedin]: https://linkedin.com/in/ketan-aggarwal-594773187
+[twitter]: https://twitter.com/Soubhik_1502
+[instagram]: https://www.instagram.com/wikiboy_1502
+[linkedin]: https://linkedin.com/in/soubhik-ch
