@@ -1,13 +1,13 @@
 # Hi there, I'm Soubhik Chakraborty 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KetanAggarwal17?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FketanAggarwal58&screen_name=KetanAggarwal17)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Soubhik_1502?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSoubhik1502&screen_name=Soubhik_1502)
 
-### I'm a Developer, Mercedes Benz fanboy, and a Student!!
+### I'm a Developer, Formula 1 fanboy, and a Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer to build world a better place
 - 🥅 2022 Goal: Learn Machine Learning
-- ⚡ Fun fact: I love to play guitar
+- ⚡ Fun fact: I love to capture moments with my camera!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
 
