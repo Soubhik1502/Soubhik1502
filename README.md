@@ -5,7 +5,7 @@
 ### I'm a Developer, Formula 1 fanboy, and a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer to build world a better place
+- 👯 I’m looking to collaborate with other developers to build world a better place
 - 🥅 2022 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to capture moments with my camera!
 
