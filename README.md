@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers to build world a better place
-- 🥅 2022 Goal: Learn Machine Learning
+- 🥅 2024 Goal: Learn Bakend Development 
 - ⚡ Fun fact: I love to capture moments with my camera!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Soubhik1502.Soubhik1502)
